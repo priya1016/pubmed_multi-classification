@@ -1,0 +1,29 @@
+Root Category,Category Name,Category Split
+A,anatomy,anatomy
+B,organisms,organisms
+C,diseases,diseases
+D,chemicals and drugs,chemicals
+D,chemicals and drugs,drugs
+E,"analytical, diagnostic and therapeutic techniques and equipment",analytical
+E,"analytical, diagnostic and therapeutic techniques and equipment",diagnostic
+E,"analytical, diagnostic and therapeutic techniques and equipment",therapeutic techniques
+E,"analytical, diagnostic and therapeutic techniques and equipment",equipment
+F,psychiatry and psychology,psychiatry
+F,psychiatry and psychology,psychology
+G,phenomena and processes,phenomena
+G,phenomena and processes,processes
+H,disciplines and occupations,disciplines
+H,disciplines and occupations,occupations
+I,"anthropology, education, sociology and social phenomena",anthropology
+I,"anthropology, education, sociology and social phenomena",education
+I,"anthropology, education, sociology and social phenomena",sociology
+I,"anthropology, education, sociology and social phenomena",social phenomena
+J,"technology, industry, and agriculture",technology
+J,"technology, industry, and agriculture",industry
+J,"technology, industry, and agriculture", agriculture
+K,humanities,humanities
+L,information science,information science
+M,named groups,named groups
+N,health care,health care
+V,publication characteristics,publication characteristics
+Z,geographicals,geographicals
